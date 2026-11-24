@@ -1,0 +1,26 @@
+{
+  "name": "Nebeski kalendar — Vinčanac",
+  "short_name": "Vinčanac",
+  "description": "Nebeski sat i kalendar sa 13 meseci po 28 dana.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "lang": "sr",
+  "background_color": "#05070f",
+  "theme_color": "#05070f",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
